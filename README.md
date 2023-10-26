@@ -92,7 +92,6 @@
 * Modelos Analiticos (Machine Learning)
 	* Funcion lineal 
 	* Graficos Bivariados y Correlacion
-
 	* Funcion lineal y la Regresion Lineal simple 
 	* Sklearn
 	* Ejercitacion
