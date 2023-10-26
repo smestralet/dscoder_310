@@ -64,86 +64,87 @@
 	* Ejercitacion
 
 **C5 16/09/2023**
-	* Estadística Descriptiva
-		* Groupby
-		* EDA, cuantitativas/cualitivativas
-		* Medidas de resumen 
-		* Ejercitacion
-	* Visualizaciones II
-		* Seaborn
-		* Boxplot
-		* FacetGrid
-		* Ejercitacion
-	* **Desafío: Visualizaciones (plt+sns)**
+
+* Estadística Descriptiva
+	* Groupby
+	* EDA, cuantitativas/cualitivativas
+	* Medidas de resumen 
+	* Ejercitacion
+* Visualizaciones II
+	* Seaborn
+	* Boxplot
+	* FacetGrid
+	* Ejercitacion
+* **Desafío: Visualizaciones (plt+sns)**
 
 **C6 23/09/2023**
-	* Herramientas de visualización
-		* Distribuciones
-		* Inferencia estadistica, p-value
-		* Ejercitacion
+* Herramientas de visualización
+	* Distribuciones
+	* Inferencia estadistica, p-value
+	* Ejercitacion
 
-	* Procesamiento estadístico de datos
-		* Outliers Imputacion
-		* Ejercitacion
+* Procesamiento estadístico de datos
+	* Outliers Imputacion
+	* Ejercitacion
 
 **C7 30/09/2023**
 
-	* Modelos Analiticos (Machine Learning)
-		* Funcion lineal 
-		* Graficos Bivariados y Correlacion
+* Modelos Analiticos (Machine Learning)
+	* Funcion lineal 
+	* Graficos Bivariados y Correlacion
 
-		* Funcion lineal y la Regresion Lineal simple 
-		* Sklearn
-		* Ejercitacion
-	* Regresion
-		* Regresion Lineal Multiple.
-		* R2
-		* Ejercitacion*
-	* **Desafío: Hipotesis, Medidas Resumen , Correlacion y Graficos Bivariados**
+	* Funcion lineal y la Regresion Lineal simple 
+	* Sklearn
+	* Ejercitacion
+* Regresion
+	* Regresion Lineal Multiple.
+	* R2
+	* Ejercitacion*
+* **Desafío: Hipotesis, Medidas Resumen , Correlacion y Graficos Bivariados**
 
 **C8 07/10/2023**
 
-	* Clasificacion
-		* KNN
-		* Ejercitacion
+* Clasificacion
+	* KNN
+	* Ejercitacion
 
 **C9 14/10/2023**
 
-	* Repaso y Preprocesamiento 
-		* Ejercitacion
-		* Ejemplo Prepro+Modelado
-	* **Desafío: Objetivos, Contexto, EDA****
+* Repaso y Preprocesamiento 
+	* Ejercitacion
+	* Ejemplo Prepro+Modelado
+* **Desafío: Objetivos, Contexto, EDA****
  
 **C10 21/10/2023**
 
-	* Introducción al Machine Learning 
-		* Ejercitacion
-		* Overfitting/Underfitting
-		* Split Train/Test
-	* Algoritmos y Validación de Modelos de ML
-		* CrossValidation
-		* EjercitacionCV
-	* **Desafío: FeatureSelection+Modelo+Validacion**
+* Introducción al Machine Learning 
+	* Ejercitacion
+	* Overfitting/Underfitting
+	* Split Train/Test
+* Algoritmos y Validación de Modelos de ML
+	* CrossValidation
+	* EjercitacionCV
+* **Desafío: FeatureSelection+Modelo+Validacion**
 
 **C11 28/10/2023**
 
-	* FeatureSelection
-	* EjercicioFS
-	* **_Socializacion de Proyectos_**
-	* Clustering
-		* K-means
-		* Ejercitacion
-	* **_Preentrega: Primera entrega de tu Proyecto final_**
-	* ** EDA+FeatureSelection+Modelo+Validacion**
+* FeatureSelection
+* EjercicioFS
+* **_Socializacion de Proyectos_**
+* Clustering
+	* K-means
+	* Ejercitacion
+* **_Preentrega: Primera entrega de tu Proyecto final_**
+* ** EDA+FeatureSelection+Modelo+Validacion**
 
 **C12 04/11/2023**
 
-	* Stack Tecnológico
-		* Bases de datos SQL NOSQL
-		* Otros Lenguajes de programacion 
-		* Visualizacion Plotly
-		* Streamlit
-		* Github
-		* VScode
-	* WebScraping
+* Stack Tecnológico
+	* Bases de datos SQL NOSQL
+	* Otros Lenguajes de programacion 
+	* Visualizacion Plotly
+	* Streamlit
+	* Github
+	* VScode
+* WebScraping
 
