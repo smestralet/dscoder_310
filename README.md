@@ -1,8 +1,7 @@
 # **comision 310**
 
 **C1 19/08/2023**
-
-	* Presentacion Equipo
+* Presentacion Equipo
   * Normas de convivencia
 	* Compromisos
 	* Modalidad Clases 
@@ -21,19 +20,19 @@
 
 **C2 26/08/2023**
 
-	* Introducción a la programación con Python I
-		* Que es una lenguaje, que es un programa?
-		* Colab
-		* Tipos de Datos
-		* Variables
-		* Objetos
-		* Operadores booleanos 
-		* Ejercitacion
-	* Introducción a la programación con Python II
-		* Estructuras de control FOR WHILE IF
-		* Funciones
-		* Librerias
-		* Ejercitacion
+* Introducción a la programación con Python I
+	* Que es una lenguaje, que es un programa?
+	* Colab
+	* Tipos de Datos
+	* Variables
+	* Objetos
+	* Operadores booleanos 
+	* Ejercitacion
+* Introducción a la programación con Python II
+	* Estructuras de control FOR WHILE IF
+	* Funciones
+	* Librerias
+	* Ejercitacion
 
 **C3 02/09/2023**
 
