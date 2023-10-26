@@ -99,7 +99,7 @@
 * Regresion
 	* Regresion Lineal Multiple.
 	* R2
-	* Ejercitacion*
+	* Ejercitacion
 * **Desafío: Hipotesis, Medidas Resumen , Correlacion y Graficos Bivariados**
 
 **C8 07/10/2023**
@@ -113,7 +113,7 @@
 * Repaso y Preprocesamiento 
 	* Ejercitacion
 	* Ejemplo Prepro+Modelado
-* **Desafío: Objetivos, Contexto, EDA****
+* **Desafío: Objetivos, Contexto, EDA**
  
 **C10 21/10/2023**
 
@@ -135,7 +135,7 @@
 	* K-means
 	* Ejercitacion
 * **_Preentrega: Primera entrega de tu Proyecto final_**
-* ** EDA+FeatureSelection+Modelo+Validacion**
+* **EDA+FeatureSelection+Modelo+Validacion**
 
 **C12 04/11/2023**
 
