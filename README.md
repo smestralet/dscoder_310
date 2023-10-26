@@ -36,32 +36,32 @@
 
 **C3 02/09/2023**
 
-	* NumPy
-		* Arrays (Atributos y Metodos)
-		* Indexado
-		* Matrices
-		* Operaciones vectorizadas
-		* Ejercitacion
+* NumPy
+	* Arrays (Atributos y Metodos)
+	* Indexado
+	* Matrices
+	* Operaciones vectorizadas
+	* Ejercitacion
 
-	* Pandas I
-		* Estructuras Series/Dataframes
-		* Lectura de datos
-		* .columns .head() .sample()
-		* Indexado loc/iloc
-		* Ejercitacion
-	* **Desafío: Elección de Datasets potenciales (+7)**
+* Pandas I
+	* Estructuras Series/Dataframes
+	* Lectura de datos
+	* .columns .head() .sample()
+	* Indexado loc/iloc
+	* Ejercitacion
+* **Desafío: Elección de Datasets potenciales (+7)**
  
 **C4 09/09/2023**
-	* Visualizaciones
-		* Matplotlib
-		* bar/hist
-		* Ejercitacion
-	* **Desafío: Elección de Datasets potenciales (+7)**
+* Visualizaciones
+	* Matplotlib
+	* bar/hist
+	* Ejercitacion
+* **Desafío: Elección de Datasets potenciales (+7)**
 
-	* Pandas II
-		* Agregaciones
-		* Operaciones con strings
-		* Ejercitacion
+* Pandas II
+	* Agregaciones
+	* Operaciones con strings
+	* Ejercitacion
 
 **C5 16/09/2023**
 	* Estadística Descriptiva
