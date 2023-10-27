@@ -35,14 +35,12 @@
 	* Ejercitacion
 
 ## **C3 02/09/2023**
-
 * NumPy
 	* Arrays (Atributos y Metodos)
 	* Indexado
 	* Matrices
 	* Operaciones vectorizadas
 	* Ejercitacion
-
 * Pandas I
 	* Estructuras Series/Dataframes
 	* Lectura de datos
