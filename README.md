@@ -57,14 +57,12 @@
 	* bar/hist
 	* Ejercitacion
 * **Desafío: Elección de Datasets potenciales (+7)**
-
 * Pandas II
 	* Agregaciones
 	* Operaciones con strings
 	* Ejercitacion
 
 ## **C5 16/09/2023**
-
 * Estadística Descriptiva
 	* Groupby
 	* EDA, cuantitativas/cualitivativas
@@ -82,13 +80,11 @@
 	* Distribuciones
 	* Inferencia estadistica, p-value
 	* Ejercitacion
-
 * Procesamiento estadístico de datos
 	* Outliers Imputacion
 	* Ejercitacion
 
 ## **C7 30/09/2023**
-
 * Modelos Analiticos (Machine Learning)
 	* Funcion lineal 
 	* Graficos Bivariados y Correlacion
@@ -102,20 +98,17 @@
 * **Desafío: Hipotesis, Medidas Resumen , Correlacion y Graficos Bivariados**
 
 ## **C8 07/10/2023**
-
 * Clasificacion
 	* KNN
 	* Ejercitacion
 
 ## **C9 14/10/2023**
-
 * Repaso y Preprocesamiento 
 	* Ejercitacion
 	* Ejemplo Prepro+Modelado
 * **Desafío: Objetivos, Contexto, EDA**
  
 ## **C10 21/10/2023**
-
 * Introducción al Machine Learning 
 	* Ejercitacion
 	* Overfitting/Underfitting
@@ -126,7 +119,6 @@
 * **Desafío: FeatureSelection+Modelo+Validacion**
 
 ## **C11 28/10/2023**
-
 * FeatureSelection
 * EjercicioFS
 * **_Socializacion de Proyectos_**
@@ -137,7 +129,6 @@
 * **EDA+FeatureSelection+Modelo+Validacion**
 
 ## **C12 04/11/2023**
-
 * Stack Tecnológico
 	* Bases de datos SQL NOSQL
 	* Otros Lenguajes de programacion 
