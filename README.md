@@ -14,8 +14,8 @@
 	* Desafios y Proyecto Final
 	* Ejemplos Proyectos Finales
 	* Trabajo Grupal sobre el cuestionario
-	* Que hacen los Cientificos de Datos?*
-	* Ciclo de vida de los proyectos*
+	* Que hacen los Cientificos de Datos?
+	* Ciclo de vida de los proyectos
 	* Bibliografia
 
 ## **C2 26/08/2023**
