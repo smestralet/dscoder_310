@@ -119,10 +119,6 @@
 ## **C11 28/10/2023**
 * FeatureSelection
 * EjercicioFS
-* **_Socializacion de Proyectos_**
-* Clustering
-	* K-means
-	* Ejercitacion
 * **_Preentrega: Primera entrega de tu Proyecto final_**
 * **EDA+FeatureSelection+Modelo+Validacion**
 
@@ -139,7 +135,7 @@
 	* Otros Lenguajes de programacion 
 	* Git/Github
 	* VScode
-* Preentrega: Primera entrega de tu Proyecto final(EDA+FeatureSelection+Modelo+Validacion)
+* Preentrega Proyecto Final: (EDA+FeatureSelection+Modelo+Validacion)
 
 ## **C13 11/11/2023**
 * SQL I
@@ -148,6 +144,7 @@
 	* Ejercicio
 * SQL II
 	* JOINS
+	* Ejercicio
 * Socializacion de Proyectos
 
 ## **C14 18/11/2023**
